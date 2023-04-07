@@ -4,14 +4,16 @@ I enjoy building robust and scalable applications that make a real impact on peo
 <!-- From conception to deployment, I am committed to delivering excellence every step of the way. -->
 
 ## Skills
-- 👨‍💻 Python, Postman, Swagger, Linux
+- 👨‍💻 Python, AWS, Postman, Swagger, Linux
 - ⚙️ Django, DRF
 - 👁️ CSS, Bootstrap, Material Ui
 - 💽 MySQL, SQLite
 
 ## Contact 
 - [@MusaddiqHabib](https://twitter.com/MusaddiqHabib) on Twitter
-- [@martonlederer](https://www.linkedin.com/in/musaddiq-habib/) on LinkedIn
+- [@musaddiq-habib](https://www.linkedin.com/in/musaddiq-habib/) on LinkedIn
+
+![Visitor Count](https://profile-counter.glitch.me/{msdqhabib}/count.svg)
 
 
 <!--
