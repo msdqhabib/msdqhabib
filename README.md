@@ -1,4 +1,18 @@
 ### Hi there 👋
+I'm Musaddiq, a self-motivated tech enthusiast and Backend web developer.
+I enjoy building robust and scalable applications that make a real impact on people's lives.
+<!-- From conception to deployment, I am committed to delivering excellence every step of the way. -->
+
+## Skills
+- 👨‍💻 Python, Postman, Swagger, Linux
+- ⚙️ Django, DRF
+- 👁️ CSS, Bootstrap, Material Ui
+- 💽 MySQL, SQLite
+
+## Contact 
+- [@MusaddiqHabib](https://twitter.com/MusaddiqHabib) on Twitter
+- [@martonlederer](https://www.linkedin.com/in/musaddiq-habib/) on LinkedIn
+
 
 <!--
 **msdqhabib/msdqhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
