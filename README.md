@@ -13,7 +13,6 @@ I enjoy building robust and scalable applications that make a real impact on peo
 - [@MusaddiqHabib](https://twitter.com/MusaddiqHabib) on Twitter
 - [@musaddiq-habib](https://www.linkedin.com/in/musaddiq-habib/) on LinkedIn
 
-![Visitor Count](https://profile-counter.glitch.me/{msdqhabib}/count.svg)
 
 
 <!--
